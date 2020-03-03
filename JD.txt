@@ -1,0 +1,36 @@
+Terms of employment: Full time, permanent
+
+Job location: 510 West Georgia Street, Vancouver, V6B 0M3
+
+
+As a Machine Learning Scientist, you will work with software developers and other teams to design and implement NLU models for how customers use and interact with smart devices in their homes. You will help lay the foundation to move from directed device interactions to learned behaviors that enable Alexa to proactively take action on behalf of the customer. And, you will have the satisfaction of working on a product your friends and family can relate to, and want to use every day. Like the world of smart phones less than 10 years ago, this is a rare opportunity to have a giant impact on the way people live.
+
+Salary $71,700 to $119,700/yr, commensurate with experience.
+
+
+Basic Qualifications
+
+· Master or PhD in Computer Science, Machine Learning, Statistics or a related quantitative field.
+· 2+ years of hands-on experience in applied machine learning, and predictive modeling and analysis.
+· Algorithm and model development experience for large-scale applications
+· Experience using Python, or other programming or scripting language, as well as with R, MATLAB.
+· Solid understanding of foundational statistics concepts, NLU and ML algorithms: linear/logistic regression, random forest, boosting, GBM, NNs, etc.
+Language required for job: English
+
+
+
+Preferred Qualifications
+
+All applicants must meet qualifications above.
+
+
+Benefits: Amazon provides a full range of benefits for our global employees and their eligible family members. Eligible employees may also receive signing bonuses and Amazon Restricted Stock Units. This position is eligible for further pay increases and bonuses at the company's discretion. While they might vary from location to location, Amazon benefits for Canada may include:
+
+· Health Care
+· Savings Plans
+· Income Protection
+· Paid Time Off
+· Employee Stock
+· Signing Bonuses
+
+Amazon offers competitive packages, growth potential and a challenging and exciting work environment. Amazon and its affiliates are Equal Opportunity Employers. Visit www.Amazon.com/careers for more information.
